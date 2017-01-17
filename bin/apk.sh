@@ -1,0 +1,2 @@
+
+/sbin/apk --allow-untrusted $@
